@@ -1,6 +1,38 @@
-#Diamond Vision odoo Development.
+Diamond Vision odoo Development.
+======
+**Welcome** to Diamond Vision odoo development repository where we share our work.
+
+#### Demo Trial 
+![Screenshot software](http://url/screenshot-software.png "Demo Trial")
+* [Try it !!](https://full demo link )
+
+## Download
+* [full Packages  X.Y](https://github.com/username/sw-name/archive/master.zip)
+* Other Versions
+
+## Usage
+```$ git clone https://github.com/username/software-project.git
+...```
+
+## Contributors
+
+## License 
+* see [LICENSE](https://github.com/username/sw-name/blob/master/LICENSE.md) file
+
+## How-to use this code
+* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
+
+## Contact
+#### Developer/Company
+* Homepage: 
+* e-mail: 
+* Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
+* other communication/social media
+
+
+#
 ===
-**Welcome** to Diamond Vision odoo development repository where we share our work. 
+** 
 
 ## Content 
 
@@ -19,47 +51,3 @@
 
 ## License
 ![Alt text](http://diamondvision.me/images/yootheme/logo_new_00.png?raw=true "DiamondVision")
-
-  
-
-Software Name as Headline
-======
-**Software Name** is a software for things. Short description here.
-
-#### Screenshot
-![Screenshot software](http://url/screenshot-software.png "screenshot software")
-
-## Download
-* [Version X.Y](https://github.com/username/sw-name/archive/master.zip)
-* Other Versions
-
-## Usage
-```$ git clone https://github.com/username/software-project.git
-...```
-
-## Contributors
-
-### Contributors on GitHub
-* [Contributors](https://github.com/username/sw-name/graphs/contributors)
-
-### Translations
-* [Transifex](https://www.transifex.com/projects/p/sw-name/)
-
-### Third party libraries
-* see [LIBRARIES](https://github.com/username/sw-name/blob/master/LIBRARIES.md) files
-
-## License 
-* see [LICENSE](https://github.com/username/sw-name/blob/master/LICENSE.md) file
-
-## Version 
-* Version X.Y
-
-## How-to use this code
-* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
-
-## Contact
-#### Developer/Company
-* Homepage: 
-* e-mail: 
-* Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
-* other communication/social media
