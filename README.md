@@ -1,7 +1,6 @@
 #Diamond vision odoo development 
-======
 Welcome to Diamond vision odoo development repository where we share our work. 
-
+==========
 
 ## Credits
 
