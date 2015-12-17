@@ -5,7 +5,7 @@ Diamond Vision odoo Development.
 ## Content
 This repositry contains the modules developed by diamond vision development team feel free to try it and share your feed back with us 
 * [**Autohide leftbar**](https:// master.zip)
-* [**Invoice discount](https:// master.zip)
+* [**Invoice discount**](https:// master.zip)
 * [**odoo 7 style**](https:// master.zip)
 * [**Report rtl format**](https:// master.zip)
 * [**Report rtl website**](https:// master.zip)
@@ -22,10 +22,10 @@ This repositry contains the modules developed by diamond vision development team
 * [Try it !!](https://full demo link )
 
 ## Download
-* [Full Packages  X.Y](https://github.com/username/sw-name/archive/master.zip)
+* [Full Packages  X.Y](https://github.com/mohamedsaad306/odoo-docs/archive/master.zip)
 
 ## Usage
-```$ git clone https://github.com/username/software-project.git
+```$ git clone https://github.com/mohamedsaad306/odoo-docs.git
 ...```
 
 ## License 
@@ -35,31 +35,8 @@ This repositry contains the modules developed by diamond vision development team
 * see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
 
 ## Contact
-#### Developer/Company
-* Homepage: 
-* e-mail: 
-* Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
-* other communication/social media
-
-
-#
-===
-** 
-
-## Content 
-
-* [The full Project ](https://github.com/mohamedsaad306/odoo-docs/archive/master.zip)
-
-
-## Download
-* [The full Project ](https://github.com/mohamedsaad306/odoo-docs/archive/master.zip)
-
-
-## Usage
-```$ git clone https://github.com/mohamedsaad306/odoo-docs.git
-...```
-
-## Credits
-
-## License
+#### Diamond Vision Support:
+* Homepage: www.dvit.me
+* e-mail: suppor@dvit.me
+* Twitter: [@twitterhandle](https://twitter.com/dvitme "twitterhandle on twitter")
 ![Alt text](http://diamondvision.me/images/yootheme/logo_new_00.png?raw=true "DiamondVision")
