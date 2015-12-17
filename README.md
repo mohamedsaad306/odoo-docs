@@ -37,7 +37,7 @@ This repositry contains the modules developed by diamond vision development team
 ## Contact
 #### Diamond Vision Support:
 * Homepage: www.dvit.me
-* e-mail: support@dvit.me
+* e-mail: info@dvit.me
 * Twitter: [@twitterhandle](https://twitter.com/dvitme "twitterhandle on twitter")
 
 ![Alt text](http://diamondvision.me/images/yootheme/logo_new_00.png?raw=true "DiamondVision")
