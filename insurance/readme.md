@@ -14,8 +14,8 @@ This module creates the insurance policy to be applied on a contract including m
                     *insurance
                     *insurancecompany
                     *Medical insurance
-#### Demo Trial 
-![Screenshot software](http://url/screenshot-software.png "Demo Trial")
+#### Preview
+![Screenshot software](https://raw.githubusercontent.com/mohamedsaad306/odoo-docs/master/insurance/static/description/contract_insurance.jpg "New Tabs ")
 
 ## Contact
 #### Diamond Vision Support:
