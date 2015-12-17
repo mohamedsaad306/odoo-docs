@@ -21,6 +21,6 @@ This module creates the insurance policy to be applied on a contract including m
 #### Diamond Vision Support:
 * Homepage: www.dvit.me
 * e-mail: info@dvit.me
-* Twitter: [@twitterhandle](https://twitter.com/dvitme "twitterhandle on twitter")
+* Twitter: [@dvit](https://twitter.com/dvitme "DVIT on twitter")
 
 ![Alt text](http://diamondvision.me/images/yootheme/logo_new_00.png?raw=true "DiamondVision")
