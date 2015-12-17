@@ -4,19 +4,18 @@ Diamond Vision odoo Development.
 
 ## Content
 This repositry contains the modules developed by diamond vision development team feel free to try it and share your feed back with us 
-* **Autohide leftbar**:
-  askdhasklhd;askljd
-* Invoice discount:
-* odoo 7 style:
-* Report rtl format :
-* Report rtl website:
-* Sale Discount:
-* sale line noname:
-* sale pricelist recalculation:
-* voucher_print:
-* salary payroll
-* salary support
-* web lang
+* [**Autohide leftbar**](https:// master.zip)
+* [**Invoice discount](https:// master.zip)
+* [**odoo 7 style**](https:// master.zip)
+* [**Report rtl format**](https:// master.zip)
+* [**Report rtl website**](https:// master.zip)
+* [**Sale Discount**](https:// master.zip)
+* [**Sale line noname**](https:// master.zip)
+* [**Sale pricelist recalculation**](https:// master.zip)
+* [**Voucher_print**](https:// master.zip)
+* [**Salary payroll**](https:// master.zip)
+* [**Salary support**](https:// master.zip)
+* [**Web lang**](https:// master.zip)
 
 #### Demo Trial 
 ![Screenshot software](http://url/screenshot-software.png "Demo Trial")
@@ -28,8 +27,6 @@ This repositry contains the modules developed by diamond vision development team
 ## Usage
 ```$ git clone https://github.com/username/software-project.git
 ...```
-
-
 
 ## License 
 * see [LICENSE](https://github.com/username/sw-name/blob/master/LICENSE.md) file
