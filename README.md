@@ -22,7 +22,7 @@ This repositry contains the modules developed by diamond vision development team
 * [Try it !!](https://full demo link )
 
 ## Download
-* [Full Packages  X.Y](https://github.com/mohamedsaad306/odoo-docs/archive/master.zip)
+* [Full Packages](https://github.com/mohamedsaad306/odoo-docs/archive/master.zip)
 
 ## Usage
 ```$ git clone https://github.com/mohamedsaad306/odoo-docs.git
