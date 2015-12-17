@@ -1,9 +1,9 @@
 #Diamond Vision odoo Development.
-=====
-
-Welcome to Diamond Vision odoo development repository where we share our work. 
+-----
+**Welcome** to Diamond Vision odoo development repository where we share our work. 
 
 ## Content 
+
 * [The full Project ](https://github.com/mohamedsaad306/odoo-docs/archive/master.zip)
 
 
